@@ -4,10 +4,22 @@
 }
 
 
-p{
+#p{
 
 text-align: justify;
 
+
+
+}
+
+#main{
+text-align: left;
+
+
+}
+
+#nav{
+text-align: right;
 
 
 }
