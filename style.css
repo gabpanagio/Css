@@ -1,25 +1,20 @@
-#head{
-    text-align: center;
-
-}
 
 
 #p{
 
 text-align: justify;
-
-
+background-color: #FF00FF;
 
 }
 
 #main{
 text-align: left;
-
+background-color: #FF00FF;
 
 }
 
 #nav{
 text-align: right;
-
+background-color: #FF00FF;
 
 }
