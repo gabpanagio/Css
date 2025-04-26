@@ -12,7 +12,6 @@ background-color: #FF00FF;
 }
 
 #main{
-text-align: left;
 background-color: #FF00FF;
 
 }
@@ -22,3 +21,9 @@ text-align: right;
 background-color: #FF00FF;
 
 }
+
+#navv{
+    text-align: left;
+    background-color: #FF00FF;
+    
+    }
